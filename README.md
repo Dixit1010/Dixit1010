@@ -1,9 +1,12 @@
-<p align="right">
-  <img src="https://imgs.search.brave.com/5h3BwJTH3hsm-wpCftvYPyFOYH85s2g09YfJF8UyOCw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTlmNzdhZDhlMDYw/NTBjYzI3ZWQ0ZDMv/NjY2M2RkNzlmMjQ0/ODBhZmEzODA4NzQz/X0dpdHBvZC5wbmc" alt="profile gif" width="150"/>
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h1>Hi 👋, I'm Dixit</h1>
+    <h3>A passionate developer from NSUT Delhi</h3>
+  </div>
+  <img src="https://imgs.search.brave.com/5h3BwJTH3hsm-wpCftvYPyFOYH85s2g09YfJF8UyOCw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTlmNzdhZDhlMDYw/NTBjYzI3ZWQ0ZDMv/NjY2M2RkNzlmMjQ0/ODBhZmEzODA4NzQz/X0dpdHBvZC5wbmc" alt="profile gif" width="120"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Dixit</h1>
-<h3 align="center">A passionate developer from NSUT Delhi</h3>
+---
 
 - 🌱 I’m currently learning **Machine Learning & LLMs**
 
@@ -23,8 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Tools section as you had before -->
-  <!-- Keep everything here unchanged -->
+  <!-- You can keep your tools section as is -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixit1010&show_icons=true&locale=en&layout=compact" alt="dixit1010" /></p>
