@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixit1010&show_icons=true&locale=en" alt="dixit1010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixit1010&" alt="dixit1010" /></p>
+![Snake animation](https://github.com/Dixit1010/Dixit1010/blob/output/github-contribution-grid-snake.svg)
