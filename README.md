@@ -82,5 +82,4 @@
 
 ### 🐍 Contribution Snake
 
-```md
 ![snake gif](https://github.com/Dixit1010/Dixit1010/blob/output/github-contribution-grid-snake.svg)
