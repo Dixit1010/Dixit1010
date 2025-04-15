@@ -79,7 +79,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dixit1010&" alt="Dixit1010" /></p>
 
 ---
+### 🐍 Custom Snake Animation
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/Dixit1010/Dixit1010/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Dixit1010/Dixit1010/blob/output/github-contribution-grid-snake2.svg)
