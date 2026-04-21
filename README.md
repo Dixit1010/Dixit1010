@@ -57,6 +57,7 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixit1010&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
@@ -73,5 +74,8 @@
 
 ### 🐍 Contribution Snake
 
-```md
-![snake gif](https://github.com/Dixit1010/Dixit1010/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+</picture>
