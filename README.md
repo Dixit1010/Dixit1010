@@ -1,77 +1,102 @@
-<h1 align="center">
-  Hello 👋, I'm Dixit
-</h1>
+<div align="center">
+  <h1>Hi there, I'm Dixit Kumar 👋</h1>
+  <h3>Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
+  
+  <a href="https://www.linkedin.com/in/dixit-kumar-ba321a164/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dixitkumar300@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/dixit_code/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/dixitkumar300">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</div>
 
-<h3 align="center">A passionate developer from NSUT Delhi</h3>
+<br/>
 
-- 🌱 I’m currently learning **Machine Learning & LLMs**
-- 📫 Connect me at **dixitkumar300@gmail.com**
-- ⚡ Fun fact: **I debug my code by talking to myself… and it actually works.**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<table align="left">
-  <tr>
-    <td><a href="https://linkedin.com/in/dixit-kumar-ba321a164"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
-    <td><a href="https://instagram.com/dixit.zealous"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a></td>
-    <td><a href="https://www.codechef.com/users/dixit_1100"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a></td>
-    <td><a href="https://codeforces.com/profile/dixitkumar300"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a></td>
-    <td><a href="https://www.leetcode.com/dixit_code"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/dixitkumar300"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a></td>
-  </tr>
-</table>
-
-<br clear="both"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+%26+LLMs;Full-Stack+Developer+from+NSUT+Delhi;Debugging+by+talking+to+myself;Building+scalable+web+apps" alt="Typing SVG" />
+</div>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 👨‍💻 About Me
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a></td>
-  </tr>
-</table>
-
-<br clear="both"/>
+* 🔭 **Currently Learning:** Machine Learning & Large Language Models (LLMs)
+* 🌱 **Building:** Full-stack applications with React, Node.js, and MongoDB
+* ⚡ **Fun Fact:** I debug my code by talking to myself… and it actually works! 🗣️✨
+* 📍 **Location:** Delhi, India
+* 🎓 **Education:** NSUT Delhi
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🛠️ Tech Stack & Tools
 
+**Languages**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixit1010&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dixit1010&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+**Frontend**
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dixit1010" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+**Tools & ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Coding & GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dixit1010&theme=radical&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/dixit_code?theme=radical&font=Fira%20Code&ext=activity&hide_border=true" height="195" alt="LeetCode Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixit1010&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dixit1010/Dixit1010/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <i>"Code. Debug. Learn. Repeat." 🔄</i>
+</div>
