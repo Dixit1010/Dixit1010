@@ -27,6 +27,11 @@
 
 ### 👨‍💻 About Me
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dixit1010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 * 🔭 **Currently Learning:** Machine Learning & Large Language Models (LLMs)
 * 🌱 **Building:** Full-stack applications with React, Node.js, and MongoDB
 * ⚡ **Fun Fact:** I debug my code by talking to myself… and it actually works! 🗣️✨
