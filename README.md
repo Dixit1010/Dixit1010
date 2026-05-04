@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Dixit Kumar 👋</h1>
-  <h3>Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
+  <h3>Software Developer | Full-Stack Developer | Problem Solver</h3>
   
   <a href="https://www.linkedin.com/in/dixit-kumar-ba321a164/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
