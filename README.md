@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Dixit 👋</h1>
+  <h1>Hello there, I'm Dixit 👋</h1>
   <h3>Software Developer | Full-Stack Developer | Problem Solver</h3>
   
   <a href="https://www.linkedin.com/in/dixit-kumar-ba321a164/">
