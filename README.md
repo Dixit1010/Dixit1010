@@ -35,7 +35,7 @@
 * 🔭 **Currently Learning:** Machine Learning & Large Language Models (LLMs)
 * 🌱 **Building:** Full-stack applications with React, Node.js, and MongoDB Travsy.in
 * ⚡ **Fun Fact:** I debug my code by talking to myself… and it actually works! 🗣️✨
-* 📍 **Location:** Delhi, India
+* 📍 **Location:** Noida, India
 * 🎓 **Education:** NSUT Delhi
 
 ---
